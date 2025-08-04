@@ -1,7 +1,7 @@
 
 # Incendio Radar Web
 
-![Incendio Radar Logo](assets/logoo.png)
+![Incendio Radar Logo]
 
 Flutter Web · OpenStreetMap · NASA FIRMS API · Responsive · Modern UI
 
