@@ -11,8 +11,6 @@ Incendio Radar Web es una aplicación interactiva para visualizar incendios acti
 La app permite:
 - Visualizar focos de incendios en un mapa interactivo.
 - Consultar detalles de cada incendio (fecha, brillo, FRP, etc).
-- Ver las huellas (áreas afectadas) como polígonos en el mapa.
-- Filtrar por región y rango de días.
 - Interfaz adaptativa para móvil y escritorio.
 
 ## 🏗️ Estructura del Proyecto
